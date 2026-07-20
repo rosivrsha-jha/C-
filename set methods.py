@@ -1,0 +1,13 @@
+collection=set()
+collection.add(3)
+collection.add(5)
+collection.add(7)
+print(collection)
+collection.add(3)
+collection.remove(7)
+collection .add((2,3,4)) 
+print(len(collection))
+print(collection)
+set={"my","name","is","rosi",}
+print(set.pop())
+print(set.pop( ))
